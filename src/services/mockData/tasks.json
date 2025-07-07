@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "title": "Review quarterly budget report",
+    "description": "Analyze Q3 financial performance and prepare recommendations for Q4 adjustments",
+    "priority": "high",
+    "category": "work",
+    "dueDate": "2024-12-30",
+    "completed": false,
+    "createdAt": "2024-12-20T09:00:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 2,
+    "title": "Schedule annual health checkup",
+    "description": "Book appointment with Dr. Martinez for comprehensive health screening",
+    "priority": "medium",
+    "category": "health",
+    "dueDate": "2024-12-28",
+    "completed": false,
+    "createdAt": "2024-12-20T10:30:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 3,
+    "title": "Plan weekend hiking trip",
+    "description": "Research trails, check weather, and pack gear for Saturday morning hike",
+    "priority": "low",
+    "category": "personal",
+    "dueDate": "2024-12-27",
+    "completed": false,
+    "createdAt": "2024-12-20T14:15:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 4,
+    "title": "Buy groceries for holiday dinner",
+    "description": "Turkey, vegetables, dessert ingredients, and wine for Christmas dinner",
+    "priority": "high",
+    "category": "shopping",
+    "dueDate": "2024-12-26",
+    "completed": false,
+    "createdAt": "2024-12-20T16:45:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 5,
+    "title": "Update project documentation",
+    "description": "Complete API documentation and user guides for the new feature release",
+    "priority": "medium",
+    "category": "work",
+    "dueDate": "2024-12-31",
+    "completed": false,
+    "createdAt": "2024-12-21T08:00:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 6,
+    "title": "Call mom for Christmas plans",
+    "description": "Coordinate arrival time and discuss what to bring for Christmas dinner",
+    "priority": "medium",
+    "category": "personal",
+    "dueDate": "2024-12-25",
+    "completed": true,
+    "createdAt": "2024-12-19T19:20:00Z",
+    "completedAt": "2024-12-21T18:30:00Z"
+  },
+  {
+    "Id": 7,
+    "title": "Renew car insurance",
+    "description": "Compare rates and renew policy before expiration date",
+    "priority": "high",
+    "category": "finance",
+    "dueDate": "2024-12-29",
+    "completed": false,
+    "createdAt": "2024-12-21T11:15:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 8,
+    "title": "Organize office desk",
+    "description": "Sort through papers, organize supplies, and create a clean workspace",
+    "priority": "low",
+    "category": "work",
+    "dueDate": "2024-12-30",
+    "completed": false,
+    "createdAt": "2024-12-21T13:45:00Z",
+    "completedAt": null
+  }
+]
